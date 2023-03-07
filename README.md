@@ -1,3 +1,3 @@
 <h1 align="center">
-  Gatsby WordPress Gutenberg Starter
+  Salt-n-Pepper
 </h1>
