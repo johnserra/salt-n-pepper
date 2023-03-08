@@ -13,6 +13,6 @@ export default IndexPage;
 export const Head = () => (
   <>
   <meta name="description" content="This is the page description"></meta>
-  <title>This is the Test Page</title>;
+  <title>This is the Test Page</title>
   </>
 );
