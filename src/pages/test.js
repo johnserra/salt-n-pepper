@@ -10,4 +10,9 @@ const IndexPage = () => {
 
 export default IndexPage;
 
-export const Head = () => <title>Home Page</title>;
+export const Head = () => (
+  <>
+  <meta name="description" content="This is the page description"></meta>
+  <title>This is the Test Page</title>;
+  </>
+);
